@@ -1,6 +1,6 @@
 <h1><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hey! Nice to see you.</h1>
 
-I'm Olga, Java Software Engineer from New York, US 🗽 🇺🇸
+I'm Olga, Full-stack Software Engineer from Florida, US 🗽 🇺🇸
 
 <h3>Things I use to develop 💻</h3>
 <p>
