@@ -2,7 +2,7 @@
 
 I'm Olga, Full-stack Software Engineer from Florida, US 🗽 🇺🇸
 
-<h3>Things I use to develop 💻</h3>
+<h3>Tech stack I use 💻</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -15,6 +15,7 @@ I'm Olga, Full-stack Software Engineer from Florida, US 🗽 🇺🇸
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   
   
   
